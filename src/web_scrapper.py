@@ -15,6 +15,6 @@ soup= BeautifulSoup(response.content,'html.parser')
 job_titles=soup.find_all(class_='job_listings')
 
 for job in job_titles:
-    print(job.text)
+    print(job.text.strip())
     
     
