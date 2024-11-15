@@ -1,0 +1,10 @@
+Python (Programming Language)
+Data Analysis
+SQL
+Trend Analysis
+Predictive Analytics
+Tableau
+Machine Learning
+MongoDB
+Business Intelligence (BI)
+Data Visualization
