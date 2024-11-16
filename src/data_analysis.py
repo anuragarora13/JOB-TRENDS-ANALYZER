@@ -8,7 +8,9 @@ def analyse_data():
     
     plt.figure(figsize=(10,6))
     top_companies = df['Company'].value_counts().head(10)
-    sns.barplot(x=top_companies.values,y=top_companies.index,palette='viridis')
+    sns.barplot(x=top_companies.values,y=top_companies.index,hue=top_companies.index,palette='viridis',dodge=False,
+        legend=False)
+    
     plt.title("Top 10 Companies Hiring")
     plt.xlabel("Number of job listing")
     plt.ylabel("Company")
