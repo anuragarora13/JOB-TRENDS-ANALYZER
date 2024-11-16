@@ -11,20 +11,39 @@ logging.basicConfig(
 )
 
 def scrape_job_listing(url):
+    job_data=[]
+    success_count=0
+    error_count=0
+    
     with sync_playwright() as p:
         browser=p.chromium.launch(headless=True)     
         page=browser.new_page()
-        page.goto(url)
+        page.goto(url,timeout=60000,wait_until='domcontentloaded')
         page.wait_for_load_state('networkidle')
-        html_content = page.content()
+        
         # soup= BeautifulSoup(html_content,'html.parser')  
         # job_listings=soup.find_all(class_='job_listings')
+        print("Clicking the load more buttons to load all jobs")
+        
+        while True:
+            try:
+                load_more_listing = page.locator('.load_more_jobs')
+                if load_more_listing.is_visible():
+                    load_more_listing.click()
+                    page.wait_for_timeout(2000)
+                else:
+                    print('now all jobs are updated')
+                    break 
+                    
+            except Exception as e:
+                logging.error(f'error clicking load more button {e}')
+                break
+        
+        
         job_elements = page.locator('li.job_listing')
         # Adjust this selector if necessary
-        job_data=[]
-        
-        success_count=0
-        error_count=0
+    
+ 
         
         
         for i in range(job_elements.count()):
