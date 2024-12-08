@@ -688,3 +688,955 @@
 2024-11-16 19:42:26,982 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage Social enterprise leveraging 'smart' text messaging to improve care for at-risk patient populations nationwide.
 2024-11-16 19:42:27,063 - INFO - scrapping completed successfully scrapped 93 jobs , failed to scrape 0 jobs
 2024-11-16 19:42:27,095 - INFO - Data successfully saved to database
+2024-11-16 19:46:14,123 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front How teams delight their customers, engage their teams, and build stronger businesses 
+2024-11-16 19:46:14,152 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai Leonardo is a Generative AI content production suite.
+2024-11-16 19:46:14,182 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora A place to share knowledge and better understand the world.
+2024-11-16 19:46:14,210 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish Change is easier with the right tools — navigate your engineering teams through it with Jellyfish
+2024-11-16 19:46:14,237 - INFO - successfully scraped job Senior Data Engineer at Bluesight The Medication Intelligence Company
+2024-11-16 19:46:14,262 - INFO - successfully scraped job Data Scientist at Big Time We are Big Time Studios, a new game company dedicated to crafting online adventures through space and time.
+2024-11-16 19:46:14,291 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai Leonardo is a Generative AI content production suite.
+2024-11-16 19:46:14,318 - INFO - successfully scraped job AI Researcher at Leonardo.Ai Leonardo is a Generative AI content production suite.
+2024-11-16 19:46:14,345 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails AllTrails is your guide to the outdoors! Explore 200k trail guides with reviews & photos from 30M+ outdoor enthusiasts.
+2024-11-16 19:46:14,372 - INFO - successfully scraped job Senior Data Scientist at Sonatype Develop software fearlessly.
+2024-11-16 19:46:14,399 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails AllTrails is your guide to the outdoors! Explore 200k trail guides with reviews & photos from 30M+ outdoor enthusiasts.
+2024-11-16 19:46:14,425 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks #1 accounting software in the cloud for self-employed professionals and their teams.
+2024-11-16 19:46:14,451 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian Tools for teams, from startup to enterprise: Atlassian provides tools to help every team unleash their full potential.
+2024-11-16 19:46:14,476 - INFO - successfully scraped job Data Analytics Engineer at Mattermost Award-winning open source, private cloud Slack-alternative.
+2024-11-16 19:46:14,499 - INFO - successfully scraped job Data Scientist at Headspace Your guide to health and happiness. Learn to meditate and live mindfully.
+2024-11-16 19:46:14,526 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify Sell online, in-store, and everywhere in between.
+2024-11-16 19:46:14,554 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio Changing communications forever by empowering software people to build the future of our modern communications apps.
+2024-11-16 19:46:14,581 - INFO - successfully scraped job Director of Data at Loom A new kind of work communication tool that helps you get your message across through instantly shareable video.
+2024-11-16 19:46:14,609 - INFO - successfully scraped job Data Analyst at Amazon Earth's most customer-centric company.
+2024-11-16 19:46:14,637 - INFO - successfully scraped job Site Reliability Engineer at Medium We want to be the best place to read and write on the internet.
+2024-11-16 19:46:14,662 - INFO - successfully scraped job Associate Data Scientist at Amazon Earth's most customer-centric company.
+2024-11-16 19:46:14,687 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-16 19:46:14,711 - INFO - successfully scraped job Data Scientist at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-16 19:46:14,734 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-16 19:46:14,759 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity Udacity, a pioneer in online education, is building "University by Silicon Valley"\u200b, teaching the actual programming skills that industry employers need today.
+2024-11-16 19:46:14,782 - INFO - successfully scraped job Data Scientist at Axios Smart brevity worthy of people's time, attention and trust.
+2024-11-16 19:46:14,807 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision A prototyping, collaboration, and workflow platform for designers.
+2024-11-16 19:46:14,831 - INFO - successfully scraped job Data Scientist at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-16 19:46:14,855 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-16 19:46:14,879 - INFO - successfully scraped job Data Science Instructor at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-16 19:46:14,902 - INFO - successfully scraped job Data Community Director at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-16 19:46:14,927 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub How people build software
+2024-11-16 19:46:14,951 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation Wikimedia Foundation is the non-profit that operates @Wikipedia.
+2024-11-16 19:46:14,974 - INFO - successfully scraped job Site Reliability Engineer at Elastic Elastic believes getting actionable insight from data matters.
+2024-11-16 19:46:15,000 - INFO - successfully scraped job Site Reliability Engineer at Meteor Meteor is an open-source platform for quickly building javascript apps.
+2024-11-16 19:46:15,028 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow Where the world's developers get answers, share knowledge & find jobs they love.
+2024-11-16 19:46:15,050 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather Breaking weather alerts and timely weather news updates from @AccuWeather forecasters.
+2024-11-16 19:46:15,074 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire Analytics Fire leverages big data to transform the way that engineering services are priced, justified, & sold.
+2024-11-16 19:46:15,101 - INFO - successfully scraped job Operations Manager at Rainforest QA The AI-powered crowdtesting platform for agile and CI/CD teams.
+2024-11-16 19:46:15,128 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company Don’t miss a minute of the magic.
+2024-11-16 19:46:15,157 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy Saving the world, one room at a time.
+2024-11-16 19:46:15,195 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io The inside sales CRM of choice for SMBs
+2024-11-16 19:46:15,222 - INFO - successfully scraped job DevOps Engineer at Semaphore CI We're helping developers move faster with a continuous integration & deployment service that's fast & easy to use.
+2024-11-16 19:46:15,248 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean We're simplifying the cloud by providing an infrastructure experience that developers love.
+2024-11-16 19:46:15,273 - INFO - successfully scraped job Operations Engineer at Rainforest QA The AI-powered crowdtesting platform for agile and CI/CD teams.
+2024-11-16 19:46:15,297 - INFO - successfully scraped job Cloud Production Engineer at Shopify Sell online, in-store, and everywhere in between.
+2024-11-16 19:46:15,324 - INFO - successfully scraped job Site Reliability Engineer at Elastic Elastic believes getting actionable insight from data matters.
+2024-11-16 19:46:15,348 - INFO - successfully scraped job DevOps Engineer at Percona Percona delivers enterprise-class support, consulting, managed services & software for MySQL, MariaDB, MongoDB & other open source databases.
+2024-11-16 19:46:15,373 - INFO - successfully scraped job Site Reliability Engineer at Creative Market Creative Market is a platform for handcrafted, mousemade design content from independent creatives around the world.
+2024-11-16 19:46:15,400 - INFO - successfully scraped job DevOps Engineer at Lonely Planet Love travel? Plan and book your perfect trip with expert advice, travel tips, destination information and inspiration from Lonely Planet.
+2024-11-16 19:46:15,424 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter We help bring creative projects to life.
+2024-11-16 19:46:15,447 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub How people build software
+2024-11-16 19:46:15,474 - INFO - successfully scraped job Ops Engineer at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-16 19:46:15,500 - INFO - successfully scraped job DevOps Engineer at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-16 19:46:15,524 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly The Web Form Builder for Everyone! Create awesome web forms in minutes.
+2024-11-16 19:46:15,555 - INFO - successfully scraped job Software DevOps Engineer at Udacity Udacity, a pioneer in online education, is building "University by Silicon Valley"\u200b, teaching the actual programming skills that industry employers need today.
+2024-11-16 19:46:15,586 - INFO - successfully scraped job Site Reliability Engineer at Particle We create hardware and software tools to help you prototype, scale, and manage your Internet of Things products.
+2024-11-16 19:46:15,618 - INFO - successfully scraped job Operations Engineer at Kickstarter We help bring creative projects to life.
+2024-11-16 19:46:15,646 - INFO - successfully scraped job DevOps Engineer at Venmo Venmo is the simple and fun way to send and receive money between friends.
+2024-11-16 19:46:15,673 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation Wikimedia Foundation is the non-profit that operates @Wikipedia.
+2024-11-16 19:46:15,700 - INFO - successfully scraped job Operations Engineer at Harvest Harvest is a leader in online time tracking and invoicing. Work better, and make smarter decisions for your business.
+2024-11-16 19:46:15,725 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance The whole idea of banking, remade with lovely design & equally lovely tools to help you save (right inside your account).
+2024-11-16 19:46:15,749 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow Where the world's developers get answers, share knowledge & find jobs they love.
+2024-11-16 19:46:15,772 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku Heroku provides services and tools to build, run, and scale web applications
+2024-11-16 19:46:15,798 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance The whole idea of banking, remade with lovely design & equally lovely tools to help you save (right inside your account).
+2024-11-16 19:46:15,822 - INFO - successfully scraped job Operations Engineer at Basecamp Basecamp is everyone’s favorite tool to keep teams on the same page.
+2024-11-16 19:46:15,847 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-16 19:46:15,872 - INFO - successfully scraped job Build Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-16 19:46:15,898 - INFO - successfully scraped job Site Reliability Engineer at Vox Media Vox Media builds smart brands people love in categories they’re passionate about.
+2024-11-16 19:46:15,923 - INFO - successfully scraped job Technical Trainer at Amazon Earth's most customer-centric company.
+2024-11-16 19:46:15,948 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball MLB Advanced Media (MLBAM) is the interactive and mobile company of Major League Baseball.
+2024-11-16 19:46:15,972 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn Connecting the world's professionals to help make them more productive and successful.
+2024-11-16 19:46:15,995 - INFO - successfully scraped job Director of Core Infrastructure at Auth0 Identity made simple for developers
+2024-11-16 19:46:16,018 - INFO - successfully scraped job Site Reliability Engineer at Mixmax Making Email Awesome. Currently for Gmail and Google Inbox.
+2024-11-16 19:46:16,043 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk We're on a mission to unlock every writer's potential.
+2024-11-16 19:46:16,067 - INFO - successfully scraped job DevOps Engineer at Ad Hoc We're the team that fixed http://HealthCare.gov
+2024-11-16 19:46:16,091 - INFO - successfully scraped job DevOps Consultant at Amazon Earth's most customer-centric company.
+2024-11-16 19:46:16,116 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-16 19:46:16,144 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation Wikimedia Foundation is the non-profit that operates @Wikipedia.
+2024-11-16 19:46:16,169 - INFO - successfully scraped job Senior Operations Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-16 19:46:16,197 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision A prototyping, collaboration, and workflow platform for designers.
+2024-11-16 19:46:16,225 - INFO - successfully scraped job Infrastructure Engineer at Rackspace The managed cloud company. Backed by Fanatical Support®.
+2024-11-16 19:46:16,251 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon Earth's most customer-centric company.
+2024-11-16 19:46:16,280 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub How people build software
+2024-11-16 19:46:16,305 - INFO - successfully scraped job Operations Engineer at Rainforest QA We do QA as a service, making it simple and fast to test your webapp in multiple browsers.
+2024-11-16 19:46:16,328 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike Provider of next-generation endpoint protection, threat intelligence, and services focused on identifying and preventing damage from targeted attacks.
+2024-11-16 19:46:16,352 - INFO - successfully scraped job Systems Engineer at Salesforce Connect to your customers in a whole new way.
+2024-11-16 19:46:16,375 - INFO - successfully scraped job Senior Database Engineer at Salesforce Connect to your customers in a whole new way.
+2024-11-16 19:46:16,400 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean We're simplifying the cloud by providing an infrastructure experience that developers love.
+2024-11-16 19:46:16,423 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean We're simplifying the cloud by providing an infrastructure experience that developers love.
+2024-11-16 19:46:16,449 - INFO - successfully scraped job Infrastructure Engineer at Toptal Toptal is an elite network of freelancers that enables businesses to connect with the top 3% of software engineers and designers in the world.
+2024-11-16 19:46:16,480 - INFO - successfully scraped job Enterprise Support Engineer at GitHub How people build software
+2024-11-16 19:46:16,505 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage Social enterprise leveraging 'smart' text messaging to improve care for at-risk patient populations nationwide.
+2024-11-16 19:46:16,591 - INFO - scrapping completed successfully scrapped 93 jobs , failed to scrape 0 jobs
+2024-11-16 19:46:16,634 - INFO - Data successfully saved to database
+2024-11-21 15:42:42,363 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front How teams delight their customers, engage their teams, and build stronger businesses 
+2024-11-21 15:42:42,415 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai Leonardo is a Generative AI content production suite.
+2024-11-21 15:42:42,474 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora A place to share knowledge and better understand the world.
+2024-11-21 15:42:42,544 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish Change is easier with the right tools — navigate your engineering teams through it with Jellyfish
+2024-11-21 15:42:42,602 - INFO - successfully scraped job Senior Data Engineer at Bluesight The Medication Intelligence Company
+2024-11-21 15:42:42,669 - INFO - successfully scraped job Data Scientist at Big Time We are Big Time Studios, a new game company dedicated to crafting online adventures through space and time.
+2024-11-21 15:42:42,733 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai Leonardo is a Generative AI content production suite.
+2024-11-21 15:42:42,803 - INFO - successfully scraped job AI Researcher at Leonardo.Ai Leonardo is a Generative AI content production suite.
+2024-11-21 15:42:42,879 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails AllTrails is your guide to the outdoors! Explore 200k trail guides with reviews & photos from 30M+ outdoor enthusiasts.
+2024-11-21 15:42:42,942 - INFO - successfully scraped job Senior Data Scientist at Sonatype Develop software fearlessly.
+2024-11-21 15:42:43,029 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails AllTrails is your guide to the outdoors! Explore 200k trail guides with reviews & photos from 30M+ outdoor enthusiasts.
+2024-11-21 15:42:43,114 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks #1 accounting software in the cloud for self-employed professionals and their teams.
+2024-11-21 15:42:43,203 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian Tools for teams, from startup to enterprise: Atlassian provides tools to help every team unleash their full potential.
+2024-11-21 15:42:43,256 - INFO - successfully scraped job Data Analytics Engineer at Mattermost Award-winning open source, private cloud Slack-alternative.
+2024-11-21 15:42:43,315 - INFO - successfully scraped job Data Scientist at Headspace Your guide to health and happiness. Learn to meditate and live mindfully.
+2024-11-21 15:42:43,381 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify Sell online, in-store, and everywhere in between.
+2024-11-21 15:42:43,443 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio Changing communications forever by empowering software people to build the future of our modern communications apps.
+2024-11-21 15:42:43,510 - INFO - successfully scraped job Director of Data at Loom A new kind of work communication tool that helps you get your message across through instantly shareable video.
+2024-11-21 15:42:43,580 - INFO - successfully scraped job Data Analyst at Amazon Earth's most customer-centric company.
+2024-11-21 15:42:43,638 - INFO - successfully scraped job Site Reliability Engineer at Medium We want to be the best place to read and write on the internet.
+2024-11-21 15:42:43,691 - INFO - successfully scraped job Associate Data Scientist at Amazon Earth's most customer-centric company.
+2024-11-21 15:42:43,744 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-21 15:42:43,801 - INFO - successfully scraped job Data Scientist at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-21 15:42:43,851 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-21 15:42:43,908 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity Udacity, a pioneer in online education, is building "University by Silicon Valley"\u200b, teaching the actual programming skills that industry employers need today.
+2024-11-21 15:42:43,960 - INFO - successfully scraped job Data Scientist at Axios Smart brevity worthy of people's time, attention and trust.
+2024-11-21 15:42:44,006 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision A prototyping, collaboration, and workflow platform for designers.
+2024-11-21 15:42:44,052 - INFO - successfully scraped job Data Scientist at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-21 15:42:44,103 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-21 15:42:44,155 - INFO - successfully scraped job Data Science Instructor at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-21 15:42:44,205 - INFO - successfully scraped job Data Community Director at The Democratic National Committee For more than 200 years, Democrats have represented the interests of working families, fighting for equal opportunities and justice for all Americans.
+2024-11-21 15:42:44,258 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub How people build software
+2024-11-21 15:42:44,310 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation Wikimedia Foundation is the non-profit that operates @Wikipedia.
+2024-11-21 15:42:44,369 - INFO - successfully scraped job Site Reliability Engineer at Elastic Elastic believes getting actionable insight from data matters.
+2024-11-21 15:42:44,420 - INFO - successfully scraped job Site Reliability Engineer at Meteor Meteor is an open-source platform for quickly building javascript apps.
+2024-11-21 15:42:44,477 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow Where the world's developers get answers, share knowledge & find jobs they love.
+2024-11-21 15:42:44,530 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather Breaking weather alerts and timely weather news updates from @AccuWeather forecasters.
+2024-11-21 15:42:44,598 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire Analytics Fire leverages big data to transform the way that engineering services are priced, justified, & sold.
+2024-11-21 15:42:44,654 - INFO - successfully scraped job Operations Manager at Rainforest QA The AI-powered crowdtesting platform for agile and CI/CD teams.
+2024-11-21 15:42:44,707 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company Don’t miss a minute of the magic.
+2024-11-21 15:42:44,764 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy Saving the world, one room at a time.
+2024-11-21 15:42:44,821 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io The inside sales CRM of choice for SMBs
+2024-11-21 15:42:44,879 - INFO - successfully scraped job DevOps Engineer at Semaphore CI We're helping developers move faster with a continuous integration & deployment service that's fast & easy to use.
+2024-11-21 15:42:44,924 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean We're simplifying the cloud by providing an infrastructure experience that developers love.
+2024-11-21 15:42:44,972 - INFO - successfully scraped job Operations Engineer at Rainforest QA The AI-powered crowdtesting platform for agile and CI/CD teams.
+2024-11-21 15:42:45,028 - INFO - successfully scraped job Cloud Production Engineer at Shopify Sell online, in-store, and everywhere in between.
+2024-11-21 15:42:45,092 - INFO - successfully scraped job Site Reliability Engineer at Elastic Elastic believes getting actionable insight from data matters.
+2024-11-21 15:42:45,140 - INFO - successfully scraped job DevOps Engineer at Percona Percona delivers enterprise-class support, consulting, managed services & software for MySQL, MariaDB, MongoDB & other open source databases.
+2024-11-21 15:42:45,183 - INFO - successfully scraped job Site Reliability Engineer at Creative Market Creative Market is a platform for handcrafted, mousemade design content from independent creatives around the world.
+2024-11-21 15:42:45,238 - INFO - successfully scraped job DevOps Engineer at Lonely Planet Love travel? Plan and book your perfect trip with expert advice, travel tips, destination information and inspiration from Lonely Planet.
+2024-11-21 15:42:45,302 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter We help bring creative projects to life.
+2024-11-21 15:42:45,354 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub How people build software
+2024-11-21 15:42:45,393 - INFO - successfully scraped job Ops Engineer at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-21 15:42:45,432 - INFO - successfully scraped job DevOps Engineer at General Assembly GA transforms thinkers into creators through education and opportunities in tech, business, and design.
+2024-11-21 15:42:45,481 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly The Web Form Builder for Everyone! Create awesome web forms in minutes.
+2024-11-21 15:42:45,533 - INFO - successfully scraped job Software DevOps Engineer at Udacity Udacity, a pioneer in online education, is building "University by Silicon Valley"\u200b, teaching the actual programming skills that industry employers need today.
+2024-11-21 15:42:45,586 - INFO - successfully scraped job Site Reliability Engineer at Particle We create hardware and software tools to help you prototype, scale, and manage your Internet of Things products.
+2024-11-21 15:42:45,652 - INFO - successfully scraped job Operations Engineer at Kickstarter We help bring creative projects to life.
+2024-11-21 15:42:45,726 - INFO - successfully scraped job DevOps Engineer at Venmo Venmo is the simple and fun way to send and receive money between friends.
+2024-11-21 15:42:45,786 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation Wikimedia Foundation is the non-profit that operates @Wikipedia.
+2024-11-21 15:42:45,835 - INFO - successfully scraped job Operations Engineer at Harvest Harvest is a leader in online time tracking and invoicing. Work better, and make smarter decisions for your business.
+2024-11-21 15:42:45,886 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance The whole idea of banking, remade with lovely design & equally lovely tools to help you save (right inside your account).
+2024-11-21 15:42:45,937 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow Where the world's developers get answers, share knowledge & find jobs they love.
+2024-11-21 15:42:45,976 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku Heroku provides services and tools to build, run, and scale web applications
+2024-11-21 15:42:46,012 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance The whole idea of banking, remade with lovely design & equally lovely tools to help you save (right inside your account).
+2024-11-21 15:42:46,053 - INFO - successfully scraped job Operations Engineer at Basecamp Basecamp is everyone’s favorite tool to keep teams on the same page.
+2024-11-21 15:42:46,104 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-21 15:42:46,168 - INFO - successfully scraped job Build Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-21 15:42:46,234 - INFO - successfully scraped job Site Reliability Engineer at Vox Media Vox Media builds smart brands people love in categories they’re passionate about.
+2024-11-21 15:42:46,283 - INFO - successfully scraped job Technical Trainer at Amazon Earth's most customer-centric company.
+2024-11-21 15:42:46,366 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball MLB Advanced Media (MLBAM) is the interactive and mobile company of Major League Baseball.
+2024-11-21 15:42:46,424 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn Connecting the world's professionals to help make them more productive and successful.
+2024-11-21 15:42:46,466 - INFO - successfully scraped job Director of Core Infrastructure at Auth0 Identity made simple for developers
+2024-11-21 15:42:46,514 - INFO - successfully scraped job Site Reliability Engineer at Mixmax Making Email Awesome. Currently for Gmail and Google Inbox.
+2024-11-21 15:42:46,559 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk We're on a mission to unlock every writer's potential.
+2024-11-21 15:42:46,616 - INFO - successfully scraped job DevOps Engineer at Ad Hoc We're the team that fixed http://HealthCare.gov
+2024-11-21 15:42:46,656 - INFO - successfully scraped job DevOps Consultant at Amazon Earth's most customer-centric company.
+2024-11-21 15:42:46,698 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-21 15:42:46,767 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation Wikimedia Foundation is the non-profit that operates @Wikipedia.
+2024-11-21 15:42:46,872 - INFO - successfully scraped job Senior Operations Engineer at Mozilla A non-profit with one mission: defend the free and open web.
+2024-11-21 15:42:46,923 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision A prototyping, collaboration, and workflow platform for designers.
+2024-11-21 15:42:47,002 - INFO - successfully scraped job Infrastructure Engineer at Rackspace The managed cloud company. Backed by Fanatical Support®.
+2024-11-21 15:42:47,053 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon Earth's most customer-centric company.
+2024-11-21 15:42:47,114 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub How people build software
+2024-11-21 15:42:47,177 - INFO - successfully scraped job Operations Engineer at Rainforest QA We do QA as a service, making it simple and fast to test your webapp in multiple browsers.
+2024-11-21 15:42:47,261 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike Provider of next-generation endpoint protection, threat intelligence, and services focused on identifying and preventing damage from targeted attacks.
+2024-11-21 15:42:47,327 - INFO - successfully scraped job Systems Engineer at Salesforce Connect to your customers in a whole new way.
+2024-11-21 15:42:47,409 - INFO - successfully scraped job Senior Database Engineer at Salesforce Connect to your customers in a whole new way.
+2024-11-21 15:42:47,487 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean We're simplifying the cloud by providing an infrastructure experience that developers love.
+2024-11-21 15:42:47,558 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean We're simplifying the cloud by providing an infrastructure experience that developers love.
+2024-11-21 15:42:47,628 - INFO - successfully scraped job Infrastructure Engineer at Toptal Toptal is an elite network of freelancers that enables businesses to connect with the top 3% of software engineers and designers in the world.
+2024-11-21 15:42:47,693 - INFO - successfully scraped job Enterprise Support Engineer at GitHub How people build software
+2024-11-21 15:42:47,773 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage Social enterprise leveraging 'smart' text messaging to improve care for at-risk patient populations nationwide.
+2024-11-21 15:42:48,143 - INFO - scrapping completed successfully scrapped 93 jobs , failed to scrape 0 jobs
+2024-11-21 15:42:48,212 - INFO - Data successfully saved to database
+2024-11-21 15:48:44,855 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-11-21 15:48:44,919 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-11-21 15:48:44,974 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-11-21 15:48:45,025 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-11-21 15:48:45,081 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-11-21 15:48:45,134 - INFO - successfully scraped job Data Scientist at Big Time
+2024-11-21 15:48:45,188 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-11-21 15:48:45,226 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-11-21 15:48:45,265 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-11-21 15:48:45,318 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-11-21 15:48:45,366 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-11-21 15:48:45,424 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-11-21 15:48:45,473 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-11-21 15:48:45,519 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-11-21 15:48:45,568 - INFO - successfully scraped job Data Scientist at Headspace
+2024-11-21 15:48:45,618 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-11-21 15:48:45,663 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-11-21 15:48:45,700 - INFO - successfully scraped job Director of Data at Loom
+2024-11-21 15:48:45,741 - INFO - successfully scraped job Data Analyst at Amazon
+2024-11-21 15:48:45,794 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-11-21 15:48:45,838 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-11-21 15:48:45,898 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-11-21 15:48:45,947 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-11-21 15:48:45,993 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-11-21 15:48:46,032 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-11-21 15:48:46,069 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-11-21 15:48:46,108 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-11-21 15:48:46,147 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-11-21 15:48:46,198 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-11-21 15:48:46,248 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-11-21 15:48:46,314 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-11-21 15:48:46,366 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-11-21 15:48:46,416 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-11-21 15:48:46,458 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-11-21 15:48:46,492 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-11-21 15:48:46,530 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-11-21 15:48:46,565 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-11-21 15:48:46,601 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-11-21 15:48:46,638 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-11-21 15:48:46,675 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-11-21 15:48:46,723 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-11-21 15:48:46,782 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-11-21 15:48:46,834 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-11-21 15:48:46,884 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-11-21 15:48:46,933 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-11-21 15:48:46,985 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-11-21 15:48:47,041 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-11-21 15:48:47,084 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-11-21 15:48:47,122 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-11-21 15:48:47,165 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-11-21 15:48:47,217 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-11-21 15:48:47,261 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-11-21 15:48:47,301 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-11-21 15:48:47,345 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-11-21 15:48:47,378 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-11-21 15:48:47,414 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-11-21 15:48:47,457 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-11-21 15:48:47,495 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-11-21 15:48:47,529 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-11-21 15:48:47,564 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-11-21 15:48:47,600 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-11-21 15:48:47,633 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-11-21 15:48:47,668 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-11-21 15:48:47,709 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-11-21 15:48:47,754 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-11-21 15:48:47,804 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-11-21 15:48:47,853 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-11-21 15:48:47,895 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-11-21 15:48:47,936 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-11-21 15:48:47,973 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-11-21 15:48:48,017 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-11-21 15:48:48,061 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-11-21 15:48:48,103 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-11-21 15:48:48,256 - INFO - scrapping completed successfully scrapped 73 jobs , failed to scrape 0 jobs
+2024-11-21 15:48:48,326 - INFO - Data successfully saved to database
+2024-12-08 20:29:23,000 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 20:29:23,027 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 20:29:23,050 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 20:29:23,074 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 20:29:23,101 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 20:29:23,125 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 20:29:23,154 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 20:29:23,180 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 20:29:23,204 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 20:29:23,228 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 20:29:23,254 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 20:29:23,279 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 20:29:23,304 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 20:29:23,329 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 20:29:23,354 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 20:29:23,378 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 20:29:23,402 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 20:29:23,427 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 20:29:23,447 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 20:29:23,471 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 20:29:23,492 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 20:29:23,516 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 20:29:23,539 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 20:29:23,560 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 20:29:23,582 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 20:29:23,605 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 20:29:23,628 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 20:29:23,650 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 20:29:23,672 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 20:29:23,697 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 20:29:23,720 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 20:29:23,740 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 20:29:23,760 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 20:29:23,782 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 20:29:23,802 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 20:29:23,822 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 20:29:23,844 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 20:29:23,866 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 20:29:23,890 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 20:29:23,914 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 20:29:23,938 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 20:29:23,960 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 20:29:23,982 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 20:29:24,002 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 20:29:24,023 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 20:29:24,043 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 20:29:24,065 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 20:29:24,085 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 20:29:24,105 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 20:29:24,125 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 20:29:24,150 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 20:29:24,179 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 20:29:24,211 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 20:29:24,240 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 20:29:24,272 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 20:29:24,300 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 20:29:24,325 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 20:29:24,351 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 20:29:24,375 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 20:29:24,399 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 20:29:24,426 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 20:29:24,456 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 20:29:24,485 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 20:29:24,514 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 20:29:24,540 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 20:29:24,566 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 20:29:24,590 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 20:29:24,617 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 20:29:24,641 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 20:29:24,661 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 20:29:24,684 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 20:29:24,709 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 20:29:24,732 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 20:29:24,753 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 20:29:24,776 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 20:29:24,803 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 20:29:24,826 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 20:29:24,850 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 20:29:24,872 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 20:29:24,895 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 20:29:24,918 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 20:29:24,942 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 20:29:24,964 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 20:29:24,986 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 20:29:25,005 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 20:29:25,024 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 20:29:25,046 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 20:29:25,068 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 20:29:25,099 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 20:29:25,132 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 20:29:25,165 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 20:29:25,197 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 20:29:25,263 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 20:29:25,306 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 20:29:25,334 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 20:29:25,466 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 20:29:25,530 - INFO - Data successfully saved to database
+2024-12-08 20:55:44,048 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 20:55:44,114 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 20:55:44,172 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 20:55:44,226 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 20:55:44,281 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 20:55:44,333 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 20:55:44,380 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 20:55:44,428 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 20:55:44,478 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 20:55:44,525 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 20:55:44,586 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 20:55:44,650 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 20:55:44,702 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 20:55:44,750 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 20:55:44,797 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 20:55:44,844 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 20:55:44,892 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 20:55:44,945 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 20:55:44,993 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 20:55:45,042 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 20:55:45,089 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 20:55:45,135 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 20:55:45,182 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 20:55:45,228 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 20:55:45,274 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 20:55:45,320 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 20:55:45,364 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 20:55:45,410 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 20:55:45,464 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 20:55:45,522 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 20:55:45,582 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 20:55:45,641 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 20:55:45,691 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 20:55:45,744 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 20:55:45,801 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 20:55:45,849 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 20:55:45,899 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 20:55:45,948 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 20:55:46,007 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 20:55:46,070 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 20:55:46,145 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 20:55:46,206 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 20:55:46,254 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 20:55:46,302 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 20:55:46,345 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 20:55:46,394 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 20:55:46,440 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 20:55:46,487 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 20:55:46,535 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 20:55:46,584 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 20:55:46,637 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 20:55:46,693 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 20:55:46,755 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 20:55:46,802 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 20:55:46,851 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 20:55:46,899 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 20:55:46,949 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 20:55:46,994 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 20:55:47,040 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 20:55:47,087 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 20:55:47,135 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 20:55:47,183 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 20:55:47,235 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 20:55:47,306 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 20:55:47,398 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 20:55:47,456 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 20:55:47,514 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 20:55:47,568 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 20:55:47,620 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 20:55:47,673 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 20:55:47,724 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 20:55:47,778 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 20:55:47,835 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 20:55:47,904 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 20:55:47,970 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 20:55:48,039 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 20:55:48,098 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 20:55:48,146 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 20:55:48,196 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 20:55:48,245 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 20:55:48,302 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 20:55:48,364 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 20:55:48,422 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 20:55:48,474 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 20:55:48,528 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 20:55:48,580 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 20:55:48,632 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 20:55:48,681 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 20:55:48,732 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 20:55:48,783 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 20:55:48,833 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 20:55:48,889 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 20:55:48,964 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 20:55:49,022 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 20:55:49,085 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 20:55:49,327 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 20:55:49,406 - INFO - Data successfully saved to database
+2024-12-08 21:12:01,590 - INFO - scrapping completed successfully scrapped 0 jobs , failed to scrape 95 jobs
+2024-12-08 21:13:22,550 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2024-12-08 21:14:43,719 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2024-12-08 21:15:04,580 - INFO - scrapping completed successfully scrapped 0 jobs , failed to scrape 75 jobs
+2024-12-08 21:18:30,495 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 21:18:30,635 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 21:18:30,728 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 21:18:30,787 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 21:18:30,877 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 21:18:30,967 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 21:18:31,045 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 21:18:31,108 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 21:18:31,165 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 21:18:31,233 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 21:18:31,334 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:18:31,438 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 21:18:31,522 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:18:31,599 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 21:18:31,693 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 21:18:31,772 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 21:18:31,835 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 21:18:31,890 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 21:18:31,944 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 21:18:32,006 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 21:18:32,077 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 21:18:32,140 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 21:18:32,196 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 21:18:32,249 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 21:18:32,302 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 21:18:32,362 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 21:18:32,418 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 21:18:32,489 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 21:18:32,552 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 21:18:32,631 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 21:18:32,719 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 21:18:32,784 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 21:18:32,861 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 21:18:32,952 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 21:18:33,024 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 21:18:33,104 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:18:33,201 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 21:18:33,295 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:18:33,377 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 21:18:33,466 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 21:18:33,528 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 21:18:33,609 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 21:18:33,719 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 21:18:33,803 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 21:18:33,906 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 21:18:34,002 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 21:18:34,076 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:18:34,158 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 21:18:34,238 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:18:34,308 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 21:18:34,388 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 21:18:34,463 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 21:18:34,553 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 21:18:34,636 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 21:18:34,714 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 21:18:34,777 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 21:18:34,848 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 21:18:34,916 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 21:18:35,003 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 21:18:35,093 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 21:18:35,166 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 21:18:35,257 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:18:35,369 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 21:18:35,484 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:18:35,613 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:18:35,725 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 21:18:35,824 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:18:35,921 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 21:18:36,003 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:18:36,079 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 21:18:36,176 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 21:18:36,268 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 21:18:36,354 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 21:18:36,452 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 21:18:36,533 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 21:18:36,623 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 21:18:36,712 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 21:18:36,807 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 21:18:36,905 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 21:18:36,995 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:18:37,096 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:18:37,206 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 21:18:37,307 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 21:18:37,406 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 21:18:37,506 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 21:18:37,577 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 21:18:37,644 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:18:37,709 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 21:18:37,784 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 21:18:37,846 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 21:18:37,903 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 21:18:37,962 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 21:18:38,023 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 21:18:38,090 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 21:18:38,158 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 21:18:38,355 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 21:18:38,429 - INFO - Data successfully saved to database
+2024-12-08 21:32:25,622 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 21:32:25,687 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 21:32:25,759 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 21:32:25,817 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 21:32:25,882 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 21:32:25,947 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 21:32:26,016 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 21:32:26,081 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 21:32:26,139 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 21:32:26,198 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 21:32:26,257 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:32:26,314 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 21:32:26,374 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:32:26,443 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 21:32:26,504 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 21:32:26,566 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 21:32:26,626 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 21:32:26,687 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 21:32:26,749 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 21:32:26,810 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 21:32:26,867 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 21:32:26,926 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 21:32:26,982 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 21:32:27,042 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 21:32:27,100 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 21:32:27,158 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 21:32:27,216 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 21:32:27,272 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 21:32:27,332 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 21:32:27,392 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 21:32:27,496 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 21:32:27,562 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 21:32:27,622 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 21:32:27,685 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 21:32:27,749 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 21:32:27,809 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:32:27,872 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 21:32:27,932 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:32:27,992 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 21:32:28,052 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 21:32:28,113 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 21:32:28,177 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 21:32:28,252 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 21:32:28,311 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 21:32:28,369 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 21:32:28,427 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 21:32:28,483 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:32:28,545 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 21:32:28,609 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:32:28,676 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 21:32:28,736 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 21:32:28,795 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 21:32:28,851 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 21:32:28,921 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 21:32:28,989 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 21:32:29,047 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 21:32:29,104 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 21:32:29,172 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 21:32:29,239 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 21:32:29,312 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 21:32:29,387 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 21:32:29,449 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:32:29,507 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 21:32:29,565 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:32:29,626 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:32:29,685 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 21:32:29,744 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:32:29,803 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 21:32:29,868 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:32:29,941 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 21:32:30,004 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 21:32:30,060 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 21:32:30,119 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 21:32:30,176 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 21:32:30,234 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 21:32:30,291 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 21:32:30,351 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 21:32:30,417 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 21:32:30,487 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 21:32:30,546 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:32:30,603 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:32:30,663 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 21:32:30,723 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 21:32:30,784 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 21:32:30,840 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 21:32:30,902 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 21:32:30,962 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:32:31,021 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 21:32:31,095 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 21:32:31,157 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 21:32:31,217 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 21:32:31,275 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 21:32:31,333 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 21:32:31,389 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 21:32:31,444 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 21:32:31,733 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 21:32:37,440 - ERROR - Error saving to database as  {e}
+2024-12-08 21:39:29,805 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 21:39:29,866 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 21:39:29,926 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 21:39:29,985 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 21:39:30,048 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 21:39:30,105 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 21:39:30,166 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 21:39:30,226 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 21:39:30,285 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 21:39:30,349 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 21:39:30,406 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:39:30,465 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 21:39:30,522 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:39:30,580 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 21:39:30,639 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 21:39:30,697 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 21:39:30,753 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 21:39:30,812 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 21:39:30,871 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 21:39:30,929 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 21:39:30,987 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 21:39:31,046 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 21:39:31,103 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 21:39:31,162 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 21:39:31,221 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 21:39:31,280 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 21:39:31,336 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 21:39:31,394 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 21:39:31,451 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 21:39:31,507 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 21:39:31,572 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 21:39:31,634 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 21:39:31,695 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 21:39:31,751 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 21:39:31,810 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 21:39:31,866 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:39:31,923 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 21:39:31,983 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:39:32,042 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 21:39:32,134 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 21:39:32,201 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 21:39:32,263 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 21:39:32,320 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 21:39:32,376 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 21:39:32,432 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 21:39:32,488 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 21:39:32,546 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:39:32,605 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 21:39:32,664 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:39:32,720 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 21:39:32,777 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 21:39:32,835 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 21:39:32,911 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 21:39:32,972 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 21:39:33,030 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 21:39:33,101 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 21:39:33,172 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 21:39:33,229 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 21:39:33,285 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 21:39:33,341 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 21:39:33,396 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 21:39:33,452 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:39:33,509 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 21:39:33,569 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:39:33,626 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:39:33,684 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 21:39:33,741 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:39:33,797 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 21:39:33,851 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:39:33,909 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 21:39:33,969 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 21:39:34,031 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 21:39:34,088 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 21:39:34,143 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 21:39:34,198 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 21:39:34,258 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 21:39:34,316 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 21:39:34,371 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 21:39:34,426 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 21:39:34,484 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:39:34,541 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:39:34,598 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 21:39:34,654 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 21:39:34,710 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 21:39:34,768 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 21:39:34,825 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 21:39:34,881 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:39:34,943 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 21:39:35,009 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 21:39:35,067 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 21:39:35,122 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 21:39:35,177 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 21:39:35,233 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 21:39:35,292 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 21:39:35,346 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 21:39:35,576 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 21:39:41,260 - ERROR - Error saving to database as  {e}
+2024-12-08 21:43:59,427 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 21:43:59,492 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 21:43:59,553 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 21:43:59,627 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 21:43:59,713 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 21:43:59,785 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 21:43:59,846 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 21:43:59,929 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 21:44:00,001 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 21:44:00,084 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 21:44:00,143 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:44:00,200 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 21:44:00,274 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:44:00,360 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 21:44:00,441 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 21:44:00,512 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 21:44:00,570 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 21:44:00,630 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 21:44:00,693 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 21:44:00,760 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 21:44:00,822 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 21:44:00,882 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 21:44:00,944 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 21:44:01,005 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 21:44:01,065 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 21:44:01,124 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 21:44:01,183 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 21:44:01,245 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 21:44:01,304 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 21:44:01,403 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 21:44:01,545 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 21:44:01,635 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 21:44:01,699 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 21:44:01,764 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 21:44:01,831 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 21:44:01,892 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:44:01,954 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 21:44:02,020 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:44:02,083 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 21:44:02,150 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 21:44:02,220 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 21:44:02,298 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 21:44:02,368 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 21:44:02,430 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 21:44:02,491 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 21:44:02,554 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 21:44:02,613 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:44:02,709 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 21:44:02,771 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:44:02,827 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 21:44:02,885 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 21:44:02,943 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 21:44:03,004 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 21:44:03,068 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 21:44:03,131 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 21:44:03,189 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 21:44:03,253 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 21:44:03,314 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 21:44:03,382 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 21:44:03,446 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 21:44:03,506 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 21:44:03,566 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:44:03,632 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 21:44:03,695 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:44:03,762 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:44:03,827 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 21:44:03,895 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:44:03,956 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 21:44:04,030 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:44:04,110 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 21:44:04,191 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 21:44:04,274 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 21:44:04,348 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 21:44:04,427 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 21:44:04,516 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 21:44:04,598 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 21:44:04,687 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 21:44:04,769 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 21:44:04,851 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 21:44:04,936 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:44:05,002 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:44:05,065 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 21:44:05,140 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 21:44:05,225 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 21:44:05,305 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 21:44:05,396 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 21:44:05,473 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:44:05,552 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 21:44:05,630 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 21:44:05,731 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 21:44:05,839 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 21:44:05,911 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 21:44:05,972 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 21:44:06,041 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 21:44:06,129 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 21:44:06,408 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 21:44:06,531 - INFO - Data successfully saved to database
+2024-12-08 21:47:32,489 - INFO - successfully scraped job Machine Learning Engineer II, Subscriptions at Spotify
+2024-12-08 21:47:32,554 - INFO - successfully scraped job AI Product Manager, Images at Cantina
+2024-12-08 21:47:32,622 - INFO - successfully scraped job Senior Software Engineer, Applied AI at Front
+2024-12-08 21:47:32,684 - INFO - successfully scraped job Senior AI Researcher at Leonardo.Ai
+2024-12-08 21:47:32,754 - INFO - successfully scraped job Machine Learning Engineer Intern at Quora
+2024-12-08 21:47:32,834 - INFO - successfully scraped job Data Science Co-op, July 2025 at Jellyfish
+2024-12-08 21:47:32,925 - INFO - successfully scraped job Senior Data Engineer at Bluesight
+2024-12-08 21:47:32,987 - INFO - successfully scraped job Data Scientist at Big Time
+2024-12-08 21:47:33,051 - INFO - successfully scraped job Senior AI Research Engineer at Leonardo.Ai
+2024-12-08 21:47:33,107 - INFO - successfully scraped job AI Researcher at Leonardo.Ai
+2024-12-08 21:47:33,172 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:47:33,235 - INFO - successfully scraped job Senior Data Scientist at Sonatype
+2024-12-08 21:47:33,295 - INFO - successfully scraped job Senior Data Scientist, ML and Algorithms at AllTrails
+2024-12-08 21:47:33,353 - INFO - successfully scraped job Manager, Data Engineering at FreshBooks
+2024-12-08 21:47:33,410 - INFO - successfully scraped job Data Scientist, Product Analytics at Atlassian
+2024-12-08 21:47:33,472 - INFO - successfully scraped job Data Analytics Engineer at Mattermost
+2024-12-08 21:47:33,530 - INFO - successfully scraped job Data Scientist at Headspace
+2024-12-08 21:47:33,582 - INFO - successfully scraped job Senior Data Scientist, Finance at Shopify
+2024-12-08 21:47:33,652 - INFO - successfully scraped job Senior Machine Learning Engineer at Twilio
+2024-12-08 21:47:33,713 - INFO - successfully scraped job Director of Data at Loom
+2024-12-08 21:47:33,774 - INFO - successfully scraped job Data Analyst at Amazon
+2024-12-08 21:47:33,827 - INFO - successfully scraped job Site Reliability Engineer at Medium
+2024-12-08 21:47:33,891 - INFO - successfully scraped job Associate Data Scientist at Amazon
+2024-12-08 21:47:33,950 - INFO - successfully scraped job Senior Data Analyst at The Democratic National Committee
+2024-12-08 21:47:34,009 - INFO - successfully scraped job Data Scientist at The Democratic National Committee
+2024-12-08 21:47:34,073 - INFO - successfully scraped job Data Community Manager at The Democratic National Committee
+2024-12-08 21:47:34,130 - INFO - successfully scraped job Data Science Subject Matter Expert at Udacity
+2024-12-08 21:47:34,182 - INFO - successfully scraped job Data Scientist at Axios
+2024-12-08 21:47:34,249 - INFO - successfully scraped job Senior Data Scientist, Sales at InVision
+2024-12-08 21:47:34,307 - INFO - successfully scraped job Data Scientist at Mozilla
+2024-12-08 21:47:34,371 - INFO - successfully scraped job Software Engineer, DevOps at General Assembly
+2024-12-08 21:47:34,430 - INFO - successfully scraped job Data Science Instructor at General Assembly
+2024-12-08 21:47:34,496 - INFO - successfully scraped job Data Community Director at The Democratic National Committee
+2024-12-08 21:47:34,560 - INFO - successfully scraped job Data Infrastructure Engineer at GitHub
+2024-12-08 21:47:34,632 - INFO - successfully scraped job Site Reliability Engineer at Wikimedia Foundation
+2024-12-08 21:47:34,689 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:47:34,747 - INFO - successfully scraped job Site Reliability Engineer at Meteor
+2024-12-08 21:47:34,811 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:47:34,871 - INFO - successfully scraped job Site Reliability Engineer at AccuWeather
+2024-12-08 21:47:34,930 - INFO - successfully scraped job Solutions Architect (Ruby/Python/React) at Analytics Fire
+2024-12-08 21:47:34,992 - INFO - successfully scraped job Operations Manager at Rainforest QA
+2024-12-08 21:47:35,053 - INFO - successfully scraped job System Reliability Engineer at The Walt Disney Company
+2024-12-08 21:47:35,118 - INFO - successfully scraped job Site Reliability Engineer at Apartment Therapy
+2024-12-08 21:47:35,179 - INFO - successfully scraped job Infrastructure & DevOps Engineer at Close.io
+2024-12-08 21:47:35,238 - INFO - successfully scraped job DevOps Engineer at Semaphore CI
+2024-12-08 21:47:35,329 - INFO - successfully scraped job Technical Writer, DevOps or Development at DigitalOcean
+2024-12-08 21:47:35,388 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:47:35,444 - INFO - successfully scraped job Cloud Production Engineer at Shopify
+2024-12-08 21:47:35,512 - INFO - successfully scraped job Site Reliability Engineer at Elastic
+2024-12-08 21:47:35,593 - INFO - successfully scraped job DevOps Engineer at Percona
+2024-12-08 21:47:35,652 - INFO - successfully scraped job Site Reliability Engineer at Creative Market
+2024-12-08 21:47:35,712 - INFO - successfully scraped job DevOps Engineer at Lonely Planet
+2024-12-08 21:47:35,773 - INFO - successfully scraped job Senior Operations Engineer at Kickstarter
+2024-12-08 21:47:35,835 - INFO - successfully scraped job Site Reliability Engineering Manager at GitHub
+2024-12-08 21:47:35,894 - INFO - successfully scraped job Ops Engineer at General Assembly
+2024-12-08 21:47:35,953 - INFO - successfully scraped job DevOps Engineer at General Assembly
+2024-12-08 21:47:36,010 - INFO - successfully scraped job Infrastructure Engineer at FormAssembly
+2024-12-08 21:47:36,069 - INFO - successfully scraped job Software DevOps Engineer at Udacity
+2024-12-08 21:47:36,127 - INFO - successfully scraped job Site Reliability Engineer at Particle
+2024-12-08 21:47:36,184 - INFO - successfully scraped job Operations Engineer at Kickstarter
+2024-12-08 21:47:36,244 - INFO - successfully scraped job DevOps Engineer at Venmo
+2024-12-08 21:47:36,308 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:47:36,369 - INFO - successfully scraped job Operations Engineer at Harvest
+2024-12-08 21:47:36,437 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:47:36,498 - INFO - successfully scraped job Site Reliability Engineer at Stack Overflow
+2024-12-08 21:47:36,558 - INFO - successfully scraped job Senior Infrastructure Engineer at Heroku
+2024-12-08 21:47:36,617 - INFO - successfully scraped job Infrastructure Engineer at Simple Finance
+2024-12-08 21:47:36,674 - INFO - successfully scraped job Operations Engineer at Basecamp
+2024-12-08 21:47:36,740 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:47:36,800 - INFO - successfully scraped job Build Engineer at Mozilla
+2024-12-08 21:47:36,859 - INFO - successfully scraped job Site Reliability Engineer at Vox Media
+2024-12-08 21:47:36,941 - INFO - successfully scraped job Technical Trainer at Amazon
+2024-12-08 21:47:37,006 - INFO - successfully scraped job System Reliability Engineer at Major League Baseball
+2024-12-08 21:47:37,052 - INFO - successfully scraped job Content Manager, DevOps and Testing at LinkedIn
+2024-12-08 21:47:37,115 - INFO - successfully scraped job Director of Core Infrastructure at Auth0
+2024-12-08 21:47:37,177 - INFO - successfully scraped job Site Reliability Engineer at Mixmax
+2024-12-08 21:47:37,232 - INFO - successfully scraped job Infrastructure / Operations Engineer at NoRedInk
+2024-12-08 21:47:37,304 - INFO - successfully scraped job DevOps Engineer at Ad Hoc
+2024-12-08 21:47:37,377 - INFO - successfully scraped job DevOps Consultant at Amazon
+2024-12-08 21:47:37,422 - INFO - successfully scraped job Senior Data Operations Engineer at Mozilla
+2024-12-08 21:47:37,486 - INFO - successfully scraped job Operations Engineer (Cloud Services) at Wikimedia Foundation
+2024-12-08 21:47:37,549 - INFO - successfully scraped job Senior Operations Engineer at Mozilla
+2024-12-08 21:47:37,603 - INFO - successfully scraped job Senior Security Site Reliability Engineer at InVision
+2024-12-08 21:47:37,660 - INFO - successfully scraped job Infrastructure Engineer at Rackspace
+2024-12-08 21:47:37,712 - INFO - successfully scraped job Amazon Web Service Curriculum Developer at Amazon
+2024-12-08 21:47:37,778 - INFO - successfully scraped job Git Infrastructure Engineer at GitHub
+2024-12-08 21:47:37,839 - INFO - successfully scraped job Operations Engineer at Rainforest QA
+2024-12-08 21:47:37,894 - INFO - successfully scraped job Technical Support Engineer at CrowdStrike
+2024-12-08 21:47:37,958 - INFO - successfully scraped job Systems Engineer at Salesforce
+2024-12-08 21:47:38,010 - INFO - successfully scraped job Senior Database Engineer at Salesforce
+2024-12-08 21:47:38,070 - INFO - successfully scraped job Manager, Support Operations at DigitalOcean
+2024-12-08 21:47:38,136 - INFO - successfully scraped job Platform Operations Engineer at DigitalOcean
+2024-12-08 21:47:38,199 - INFO - successfully scraped job Infrastructure Engineer at Toptal
+2024-12-08 21:47:38,261 - INFO - successfully scraped job Enterprise Support Engineer at GitHub
+2024-12-08 21:47:38,328 - INFO - successfully scraped job Software Engineer (DevOps) at CareMessage
+2024-12-08 21:47:38,483 - INFO - scrapping completed successfully scrapped 95 jobs , failed to scrape 0 jobs
+2024-12-08 21:47:38,572 - INFO - Data successfully saved to database
